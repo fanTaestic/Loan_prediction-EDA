@@ -18,5 +18,13 @@ The goal of this project is to:
 
 ## Steps and WorkFlow
 
-### Data Cleaning
+### 1. Data Cleaning
+### 2. EDA (Exploratory Data Analysis)
+### 3. Data Visualization
+
+## Key Findings and Insights
+
+## How to Run This Project
+pip install pandas numpy matplotlib seaborn
+
 
