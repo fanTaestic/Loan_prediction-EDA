@@ -43,10 +43,10 @@ The goal of this project is to:
 
 1. **Frequency Distribution** of Loan_Status and Normalizing the value.
    
-2. ****Categorical Data distribution**: 
+2. **Categorical Data distribution**: 
    - Visualized the count of each Gender, Married, Self_Employed and Credit_History distribtion using **bar plots**.
   
-   3. ****Ordinal Data distribution**: 
+3. **Ordinal Data distribution**: 
    - Visualized the count of each Dependents, Education, Property_Area distribtion using **bar plots**.
 
    
